@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.kangheewon.romeplugin
 
 import com.intellij.openapi.actionSystem.AnAction
 import com.intellij.openapi.actionSystem.AnActionEvent
